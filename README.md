@@ -1,6 +1,6 @@
-基于react的图片画廊项目
+A Gallery Project based on ReactJS 
 ======================
-预览请点击此处 [demo](https://cathyfel.github.io/gallery-react/)
-* 基于慕课网的react实战视频课程
-* webpack打包
-* sass预处理
+[demo](https://cathyfel.github.io/gallery-react/)
+* Based on the video on www.imooc.com
+* webpack is used as a boundle tool
+* prefixloader Sass
